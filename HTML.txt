@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+            <!--Header--> 
+            
+    <header>
+        
+        <h1 id = "h1"> Назва тур фірми</h1>
+        <div >
+            <img  src="png1.png" alt="Eror" height="50">
+        </div>
+        
+
+    </header>
+            <!--Aside -->
+    <aside>
+        <div>
+        
+        </div>
+
+
+
+    </aside>
+            <!--Main Body-->
+    <div id="main">
+        <div class="margen"> 
+            <img src="./img/images.jpg" alt="ter" width="33%" height="200px">
+            <img src="./img/images_1.png" alt="Eror" width="33%" height="200px">
+            <img src="./img/images_3.jpg" alt="Eror" width="33%" height="200px">
+        </div>
+
+        <div>
+            
+        </div>
+        
+    </div>
+            <!--Footer-->
+    <footer>
+
+        <p id = "down"  align="center" href=" " > Залишіть відгук </p>
+
+    </footer>
+
+
+
+</body>
+</html>

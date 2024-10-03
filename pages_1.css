@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    color: #fff;
+    display:flex;
+    justify-content:space-between;
+    background-color: #232323;
+    padding: 40px;
+    border-bottom: 1px solid green;
+    box-shadow: 10px 0px #fff;
+}
+
+footer{
+    background-color: #7d5a52;
+    padding: 50px;
+    z-index: 0;
+    position: relative;top:365px;
+}
+
+p.solid {border-style: solid;}
